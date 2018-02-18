@@ -1,0 +1,21 @@
+body
+{ 
+	margin: 0%;
+	padding: 0%;
+	background-image: url("img.jpg");
+	background-size: cover;
+}
+#s1
+{
+	color: yellow;
+    padding-left: 70%;
+   
+    
+}
+#s2
+{
+	color: yellow;
+	padding-left: 80%;
+    
+
+}
